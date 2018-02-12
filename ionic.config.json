@@ -1,0 +1,8 @@
+{
+  "name": "tiffinwala",
+  "app_id": "024eee65",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
